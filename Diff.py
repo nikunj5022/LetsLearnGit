@@ -1,2 +1,3 @@
 class Diff:
-    pass
+    def mainDiff(self):
+        print(8-2)
